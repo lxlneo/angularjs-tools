@@ -11,6 +11,7 @@
 |[angular-slimscroll]()|滚动条|[github](https://github.com/ziscloud/angular-slimscroll) [jQuery-slimScroll](https://github.com/rochal/jQuery-slimScroll)
 |[angular-tree-control](http://wix.github.io/angular-tree-control/)|angular实现树结构|[github](https://github.com/wix/angular-tree-control) 相关的[angular.treeview](http://ngmodules.org/modules/angular.treeview)
 |[checklist-model](http://vitalets.github.io/checklist-model/)|解决checkbox选择问题|[github](https://github.com/vitalets/checklist-model)
-
+|[angular-bootstrap-datetimepicker-directive]()|日历控件|[github]()
+|[ngAlertify.js]()|提示信息|[github]()
 
 
